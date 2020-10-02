@@ -1,6 +1,8 @@
 # Test_technique_MPG
 Bienvenue sur mon test technique
 
+![alt text](images/screenShot1.png "Title Text")
+
 ## lancer le projet 
 Il faut d'abord effectuer la commande suivante
 - npm install --save (Pour installer tout les modules qui ont été enlevés `a cause de github`)
