@@ -1,0 +1,6 @@
+module Pods_MPG {
+  umbrella header "Pods-MPG-umbrella.h"
+
+  export *
+  module * { export * }
+}
